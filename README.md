@@ -37,9 +37,9 @@
 # :notes: About
 
 
-The **Podcaster** is the Best place to listen your favorites podcasts :D
+The **Podcaster** is the best place to listen to your favorites podcasts :D
 
-Application made based to NLW#5 intensival online event provides by  [Rocketseat](https://rocketseat.com.br/) 🚀
+Application made based on NLW#5 online workshop, hosted by  [Rocketseat](https://rocketseat.com.br/) 🚀
 
 <p>
  <img width=15 src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">&nbsp;&nbsp;&nbsp;
@@ -53,17 +53,17 @@ Application made based to NLW#5 intensival online event provides by  [Rocketseat
 
 #### 📃 Dependencies: -> <i><kbd> [package.json](./package.json) </kbd></i>
 
-- [x] <b>[Next JS](https://nextjs.org/):</b> <i>To best way for create SSG or SSR pages</i>
-- [x] <b>[Typescript](https://www.typescriptlang.org/):</b> <i>is written in TypeScript</i>
-- [x] <b>[Axios](https://github.com/axios/axios):</b> <i>Best lib to work with Promise based HTTP client </i>
-- [x] <b>[Date-fns](https://date-fns.org/):</b> <i>Best lib utility to use Date</i>
-- [x] <b>[RC-Slider](https://www.npmjs.com/package/rc-slider):</b> <i>To made track slider </i>
-- [x] <b>[SASS](https://sass-lang.com/):</b> <i>for better CSS perfomance</i>
-- [x] <b>[JSON Server](https://github.com/typicode/json-server):</b> <i>Fake server API consume</i>
+- [x] <b>[Next JS](https://nextjs.org/):</b> <i>The best framework to create SSG or SSR pages</i>
+- [x] <b>[Typescript](https://www.typescriptlang.org/):</b> <i>It's written in TypeScript</i>
+- [x] <b>[Axios](https://github.com/axios/axios):</b> <i>Best lib to work with Promise-based HTTP client </i>
+- [x] <b>[Date-fns](https://date-fns.org/):</b> <i>Best lib to work with Date in Javascript</i>
+- [x] <b>[RC-Slider](https://www.npmjs.com/package/rc-slider):</b> <i>To make the track slider </i>
+- [x] <b>[SASS](https://sass-lang.com/):</b> <i>To optimize CSS perfomance</i>
+- [x] <b>[JSON Server](https://github.com/typicode/json-server):</b> <i>Fake server API creator</i>
 
 #### 📝Custom: ->
 
-Script for execute JSON Server with lazy load:
+Script to execute JSON Server with fake delay:
 
 ```json
 "server": "json-server src/service/server.json -w -d 750 -p 3333"
@@ -71,12 +71,12 @@ Script for execute JSON Server with lazy load:
 
 # :musical_keyboard: Getting Started
 
-Must to have installed:
+You must have installed:
 
 1. **Node.js**. <i>[Here](https://nodejs.org/en/)</i>
 2. **GIT**. <i>[Here](https://git-scm.com)</i>
 
-After checked, go to:
+After that, go to the terminal and execute those steps:
 
 ```bash
   $ git clone https://github.com/gamadv/podcastr.git
@@ -100,7 +100,7 @@ After checked, go to:
 
   $ yarn server -> to start JSON Server 
 ```
-* **SSG or SSR feature only can be tested after building prject:**
+* **SSG or SSR feature can only be tested after building prject:**
 
 ## Building app
 ```bash
@@ -114,7 +114,7 @@ After checked, go to:
 ```
 
 # :musical_note: Upgrades:
-Some features are pendents to do, like:
+Some features are pending, those are:
 - [ ]  Responsive Layout
 - [ ]  PWA -> [Example using Next JS](https://github.com/vercel/next.js/tree/canary/examples/progressive-web-app)
 - [ ]  Dark theme -> [Dark Mode Switcher Using CSS Variables in LESS, SASS, or Vanilla CSS](https://medium.com/swlh/dark-mode-using-css-variables-cf065a7fa133)
