@@ -1,0 +1,41 @@
+.foo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #494d4b;
+  font: 2rem Impact, sans-serif;
+  padding: 2rem;
+}
+
+.foo img {
+  margin: 0 2rem;
+}
+
+.badges-container,
+.summary-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.badges-container a {
+  margin: 0.5rem;
+}
+#nlw {
+  width: 500px;
+}
+
+#footer-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#footer-container a {
+  font-size: 2rem;
+}
+
+#footer-container h6 {
+  margin: 1rem;
+}
