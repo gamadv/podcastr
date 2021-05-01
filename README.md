@@ -117,10 +117,11 @@ Some features are pendents to do, like:
 - [ ]  Desktop app using -> [Electron](https://www.electronjs.org/)
 
 
-<footer align=center> 
-<h6>💙 Made by</h6> 
-
-<a  href="https://www.linkedin.com/in/gama-leal" />  Moacir Gama
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=20>
- </a>
-</footer>
+<p align=center> 
+  <h6 align=center>💙 Made by</h6> 
+  <h2 align=center>
+  <a href="https://www.linkedin.com/in/gama-leal" />  Moacir Gama
+    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=20>
+  </a>
+  </h2>
+</p>
