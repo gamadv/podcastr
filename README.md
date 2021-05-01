@@ -41,6 +41,10 @@ The **Podcaster** is the Best place to listen your favorites podcasts :D
 
 Application made based to NLW#5 intensival online event provides by  [Rocketseat](https://rocketseat.com.br/) 🚀
 
+<p>
+ <img width=15 src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761">Project Wireframe</a>
+</p>
 
 <img src="assets/readme/desktop-podcastr.gif" />
 
