@@ -1,17 +1,15 @@
-<link href="assets/readme/styles.css" rel="stylesheet"/>
+<h1 align=center>
+  <img src="assets/readme/favicon.png">
+    <h1 align=center> Podcastr </h1> 
+  </img>
+</h1>
 
-<div class="foo"> 
-  <img src="assets/readme/favicon.png" />
+<p align=center>
+  <img width=600 src="assets/readme/podcastr.png"  align=center/>
+</p>
 
-## Podcastr
 
-</div>
-
-<div class="foo"> 
-  <img id="nlw" src="assets/readme/podcastr.png"  />
-</div>
-
-<div class="badges-container" >
+  <h1 align="center">  
     <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
       <img src="https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555">
     </a>
@@ -27,16 +25,16 @@
     <a href="https://nextjs.org/" target="_blank"  rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/%23-nextjs-%23fff?style=flat&logo=vercel">
     </a>
-</div>
+   </h1>
 
-<div class="summary-container">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#upgrades">Upgrades</a>
-</div>
+<h6 align=center>
+  <a href="#notes-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#microphone-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#musical_keyboard-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#musical_note-upgrades">Upgrades</a>
+</h6>
 
-# About
+# :notes: About
 
 
 The **Podcaster** is the Best place to listen your favorites podcasts :D
@@ -47,8 +45,7 @@ Application made based to NLW#5 intensival online event provides by  [Rocketseat
 <img src="assets/readme/desktop-podcastr.gif" />
 
 
-
-# Technologies
+# :microphone: Technologies
 
 #### 📃 Dependencies: -> <i><kbd> [package.json](./package.json) </kbd></i>
 
@@ -68,7 +65,7 @@ Script for execute JSON Server with lazy load:
 "server": "json-server src/service/server.json -w -d 750 -p 3333"
 ```
 
-# Getting Started
+# :musical_keyboard: Getting Started
 
 Must to have installed:
 
@@ -112,7 +109,7 @@ After checked, go to:
   $ yarn start
 ```
 
-# Upgrades:
+# :musical_note: Upgrades:
 Some features are pendents to do, like:
 - [ ]  Responsive Layout
 - [ ]  PWA -> [Example using Next JS](https://github.com/vercel/next.js/tree/canary/examples/progressive-web-app)
@@ -120,7 +117,7 @@ Some features are pendents to do, like:
 - [ ]  Desktop app using -> [Electron](https://www.electronjs.org/)
 
 
-<footer id="footer-container"> 
+<footer align=center> 
 <h6>💙 Made by</h6> 
 
 <a  href="https://www.linkedin.com/in/gama-leal" />  Moacir Gama
