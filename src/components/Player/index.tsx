@@ -9,7 +9,7 @@ import { convertDurationToTimeString } from '../../utils';
 
 import MediaButton from '../MediaButton';
 
-import styles from './style.module.scss';
+import styles from './styles.module.scss';
 
 const Player: React.FC = () => {
   const audioRef = useRef<HTMLAudioElement>(null);
